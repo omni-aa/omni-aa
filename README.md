@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aidanaliportfolio.vercel.app/](https://aidanaliportfolio.vercel.app/)
 
-- 💬 Ask me about **Frontend Javascript frameworks like React/Next js and building backend webservices and Api Leveraging FASTAPI, Flask, and various other libraries and Frameworks**
+- 💬 **Seasoned developer specializing in React/Next.js for frontend, and FastAPI/Flask for backend services and APIs. Proficient in leveraging diverse libraries and frameworks to build robust web applications. Experienced with MySQL, SQLite, and MongoDB for efficient data management.**
 
 - 📫 How to reach me **aidanali0001@gmail.com**
 
