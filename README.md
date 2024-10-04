@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AidanAli&label=Profile%20views&color=0e75b6&style=flat" alt="AidanAli" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moonsight91" alt="moonsight91" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AidanAli" alt="AidanAli" /></a> </p>
 
 - 🔭 I’m currently working on [Azerothcore Private Server Project](https://github.com/WoTLKAcoreDevelopment/dev-intro)
 
