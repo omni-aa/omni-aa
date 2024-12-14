@@ -13,7 +13,7 @@
 
 - 💬 **Seasoned developer specializing in React/Next.js for frontend, and FastAPI/Flask for backend services and APIs. Proficient in leveraging diverse libraries and frameworks to build robust web applications. Experienced with MySQL, SQLite, and MongoDB for efficient data management.**
 
-- 📫 How to reach me **iamomni_  Discord**
+- 📫 How to reach me Discord: **```iamomni_```**
 
 
 <h3 align="left">Connect with me:</h3>
