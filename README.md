@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **iamomni_  Discord**
 
-- 📄 Know about my experiences [https://aidanaliportfolio.vercel.app/](https://aidanaliportfolio.vercel.app/)
+- 📄 Know about my experiences [https://aidanportfolio.vercel.app/]([https://aidanaliportfolio.vercel.app/](https://aidanportfolio.vercel.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
