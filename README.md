@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AidanAli" alt="AidanAli" /></a> </p>
 
-- 🔭 I’m currently working on [Project Aurora](https://github.com/omni-aa/Aurora-Project)
+- 🔭 I’m currently working on [Aurora Project](https://github.com/omni-aa/Aurora-Project)
 
 - 🌱 I’m currently learning **C++, and furthering my knowledge in Python, and Javascript**
 
