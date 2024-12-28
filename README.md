@@ -21,7 +21,7 @@ I'm a full-stack developer with expertise in modern web technologies. My focus l
 - **Backend**: FastAPI, Flask, Node.js
 - **Databases**: MongoDB, MySQL, SQLite
 - **Tools & Platforms**: Git, Azure, Postman, Electron
-- **Additional Skills**: REST API Design, System Architecture, Test Automation (Selenium)
+- **Additional Skills**: REST API Design, Test Automation (Selenium)
 
 ### Portfolio & Contact
 
