@@ -10,7 +10,7 @@ I'm a full-stack developer passionate about building scalable, efficient applica
 
 ## Current Endeavors
 - 🌟 Leading development on the [Aurora Project](https://github.com/omni-aa/Aurora-Project)
-- 🚀 Expanding expertise in C# while deepening knowledge of Python and JavaScript
+- 🚀 Expanding expertise in C++ while deepening knowledge of Python and JavaScript
 - 💻 Building robust full-stack applications with React/Next.js and FastAPI/Flask
 
 ## Technical Skills
